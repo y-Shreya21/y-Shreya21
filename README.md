@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**y-Shreya21/y-Shreya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer passionate about AI Agents, LLMs, NLP, Healthcare AI, and Intelligent Systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Agentic AI Systems
+* Large Language Models (LLMs)
+* LangGraph & Multi-Agent Workflows
+* NLP & Healthcare AI
+* MLOps & Deployment
+
+## Featured Projects
+
+### InvestIQ AI
+
+Multi-agent investment research platform that analyzes companies and generates explainable Invest/Hold/Pass recommendations.
+
+### ADR-MedDRA
+
+NLP system for automatic standardization of adverse drug reaction narratives into MedDRA terminology.
+
+### Patient Stratification for Rheumatoid Arthritis
+
+Multimodal ML pipeline combining radiographic imaging and clinical data for patient clustering and risk analysis.
+
+### ScholarPath
+
+AI-powered scholarship intelligence platform using RAG, OCR, and LangGraph workflows.
+
+## Tech Stack
+
+Python • PyTorch • Scikit-learn • LangChain • LangGraph • FastAPI • Next.js • React • SQL
+
+## Currently Learning
+
+Advanced LLM Systems, AI Agents, and Production AI Engineering
+
